@@ -1,12 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './style/index.css';
+import App from './components/App';
+import About from './components/About';
+import Skill from './components/Skill';
+import Project from './components/Project';
+import Experience from './components/Experience'
+import Contact from './components/Contact';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App /><hr/>
+    <About /><hr/>
+    <Skill /><hr/>
+    <Experience /><hr/>
+    <Project /><hr/>
+    <Contact /><hr/>
   </React.StrictMode>,
   document.getElementById('root')
 );
