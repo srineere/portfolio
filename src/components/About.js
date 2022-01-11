@@ -31,7 +31,7 @@ function About() {
           </p>
         </div>
         <div className="image-wrapper">
-          {/* <img src={myProfile} alt="myProfile" /> */}
+          <img src={myProfile} alt="myProfile" />
         </div>
       </div>
       <br/>
