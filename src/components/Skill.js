@@ -34,7 +34,7 @@ function Skill () {
           <div className="skills-grid">
             
             <div className="skill">
-            <p className="flex-chips"><h3>Programming Languages:</h3>
+            <p className="flex-chips"><h4>Programming Languages:</h4>
               Python  <LinearProgressWithLabel value={90}   />
               C++  <LinearProgressWithLabel value={80}   />
               C <LinearProgressWithLabel value={80}   />
@@ -46,7 +46,7 @@ function Skill () {
               </p>
             </div>
             <div className="skill">
-              <p className="flex-chips"><h3>Web Dev:</h3>
+              <p className="flex-chips"><h4>Web Dev:</h4>
               JavaScript  <LinearProgressWithLabel value={80}   />
               HTML  <LinearProgressWithLabel value={90}   />
               CSS <LinearProgressWithLabel value={90}   />
@@ -59,7 +59,7 @@ function Skill () {
             </div>
             
             <div className="skill">
-            <p className="flex-chips"><h3>Tools:</h3>
+            <p className="flex-chips"><h4>Tools:</h4>
             Git  <LinearProgressWithLabel value={80}   />
             Linux  <LinearProgressWithLabel value={70}   />
             Postman <LinearProgressWithLabel value={80}   />

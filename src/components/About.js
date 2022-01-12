@@ -15,10 +15,11 @@ function About() {
           <p>Hi! My name is Srineer Kaleri. I am currently pursuing a bachelor's degree in computer science at Indian Institute of Information Technology - Sri City (Expected graduation 2023). I believe that learning is a stream and it ought not to stop. Many things excite me in this expanse of technology, and I like to explore and keep my options open all the time. I am up for challenges that take me by surprise. I'm comfortable working on any domain if I find the project is worth it. You can imagine me focused on the laptop screen and typing.</p>
           <p className="flex-chips">Specialties: <br></br>
             <Chip variant="outlined" color="secondary" label="Web Development" />
-            <Chip variant="outlined" color="secondary" label="MERN Stack" />
+            {/* <Chip variant="outlined" color="secondary" label="MERN Stack" /> */}
             <Chip variant="outlined" color="secondary" label="Problem Solving" />
             <Chip variant="outlined" color="secondary" label="Algorithms and Data Structures" />
             <Chip variant="outlined" color="secondary" label="Quick Learner" />
+            <Chip variant="outlined" color="secondary" label="Time Management" />
           </p>
           <p className='flex-chips'>If I am not coding, you can find me: 
             <br></br>

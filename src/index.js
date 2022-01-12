@@ -7,10 +7,12 @@ import Skill from './components/Skill';
 import Project from './components/Project';
 import Experience from './components/Experience'
 import Contact from './components/Contact';
+import Scroll from './components/Scroll'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Scroll showBelow={250} />
     <App /><hr/>
     <About /><hr/>
     <Skill /><hr/>

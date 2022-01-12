@@ -6,6 +6,10 @@ Chip {
   background-color: crimson;
 }
 
+h4 {
+  margin: 0%;
+}
+
 .skills-container {
   width: 80vw;
   display: flex;

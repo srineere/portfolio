@@ -1,9 +1,8 @@
 import React from 'react';
 import '../style/contact.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faKaggle, faGithub, faLinkedin, faHackerrank, faFacebook, faInstagram, faMailchimp, faDiscord } from '@fortawesome/free-brands-svg-icons';
-import { faBookmark, faEnvelope, faFile, faFileAlt } from '@fortawesome/free-regular-svg-icons';
-import { faTextHeight } from '@fortawesome/free-solid-svg-icons';
+import { faGithub, faLinkedin, faHackerrank, faDiscord } from '@fortawesome/free-brands-svg-icons';
+import {  faEnvelope, faFileAlt } from '@fortawesome/free-regular-svg-icons';
 
 function Contact() {
  
