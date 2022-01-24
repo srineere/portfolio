@@ -1,8 +1,9 @@
 import React from 'react';
 import '../style/contact.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin, faHackerrank, faDiscord } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faLinkedin, faHackerrank } from '@fortawesome/free-brands-svg-icons';
 import {  faEnvelope, faFileAlt } from '@fortawesome/free-regular-svg-icons';
+// import codechef from '../assets/img/codechef.svg';
 
 function Contact() {
  
@@ -19,7 +20,8 @@ function Contact() {
             <li><a href="https://www.linkedin.com/in/srineer-kaleri-592456197/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} size="2x"/></a></li>
             <li><a href="https://github.com/srineere" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} size="2x"/></a></li>
             <li><a href="https://www.hackerrank.com/srineer_k19" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faHackerrank} size="2x"/></a></li>
-            <li><a href="https://discordapp.com/users/Srineer#1209" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faDiscord} size="2x"/></a></li>
+            {/* <li><a href="https://www.codechef.com/users/srineer_19" target="_blank" rel="noreferrer"><img rel="icon" src={codechef} /></a></li> */}
+            {/* <li><a href="https://discordapp.com/users/Srineer#1209" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faDiscord} size="2x"/></a></li> */}
             <li><a href="mailto:srineerkaleri@gmail.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faEnvelope} size="2x"/></a></li>
           </ul>
         </div>
