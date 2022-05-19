@@ -9,8 +9,15 @@ function Experience() {
     <div className="experience-container" id="experience">
     <FadeInSection>
       <h1>Experience</h1>
-        <br/>
         {/* <div className="line"></div> */}
+        <div className="experiences">
+          <h2 className="h2e">RMgX Technologies</h2>
+          <p>I worked here Web-Development intern, where I worked on developing many components using Angular and Ngrx. </p>
+          <p>Used: Angular Js, NodeJs</p>
+          <h4> Sep'21 - Dec'21  </h4>
+        </div>
+        <br/>
+        <div className="line"></div>
         <div className="experiences">
           <h2 className="h2e">Dexter Hut</h2>
           <p>I worked here as a backend-developer intern, where we worked on Stacks blockchain to develop a survey platform. </p>

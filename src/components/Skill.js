@@ -47,14 +47,14 @@ function Skill () {
             </div>
             <div className="skill">
               <p className="flex-chips"><h4>Web Dev:</h4>
-              JavaScript  <LinearProgressWithLabel value={80}   />
-              HTML  <LinearProgressWithLabel value={90}   />
-              CSS <LinearProgressWithLabel value={90}   />
-              Node Js  <LinearProgressWithLabel value={80}   />
-              MongoDB  <LinearProgressWithLabel value={75}   />
-              Express  <LinearProgressWithLabel value={85}   />
-              React  <LinearProgressWithLabel value={65} />
+              JavaScript <LinearProgressWithLabel value={80}   />
+              HTML & CSS <LinearProgressWithLabel value={90}   />
+              Node Js <LinearProgressWithLabel value={80}   />
+              React <LinearProgressWithLabel value={70} />
+              Angular <LinearProgressWithLabel value={70}   />
+              MongoDB <LinearProgressWithLabel value={75}   />
               MySQL <LinearProgressWithLabel value={60} />
+              Express <LinearProgressWithLabel value={85}   />
               </p>
             </div>
             

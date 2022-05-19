@@ -1,6 +1,6 @@
 import React from 'react';
 import '../style/App.css'
-import myProfile from '../assets/img/profile1.jpeg';
+import myProfile from '../assets/img/me.jpeg';
 import FadeInSection from '../FadeInSections'
 import Chip from '@material-ui/core/Chip';
 
@@ -9,6 +9,7 @@ function About() {
   return  (
     <div className="container" id="about">
       <FadeInSection>
+      <br/>
       <div className="about-section">
         <div className="content">
           <h1>About Me</h1>
@@ -35,6 +36,7 @@ function About() {
           <img src={myProfile} alt="myProfile" />
         </div>
       </div>
+      <br/>
       <br/>
       </FadeInSection>
     </div>
