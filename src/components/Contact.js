@@ -16,7 +16,7 @@ function Contact() {
         <p>Feel free to reach out to me on social media.</p>
         <div className="info">
           <ul>
-            <li><a href="https://docs.google.com/document/d/1tRgeb4D_pnI5EAgwdm6mDnijoKk89raPoKJiP3PM_PM/edit?usp=sharing" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faFileAlt} size="2x"/></a></li>
+            <li><a href="https://drive.google.com/file/d/1lkGLRzdAWBdJadqVdUUpfL70DqDmwmuV/view?usp=sharing" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faFileAlt} size="2x"/></a></li>
             <li><a href="https://www.linkedin.com/in/srineer-kaleri-592456197/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} size="2x"/></a></li>
             <li><a href="https://github.com/srineere" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} size="2x"/></a></li>
             <li><a href="https://www.hackerrank.com/srineer_k19" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faHackerrank} size="2x"/></a></li>

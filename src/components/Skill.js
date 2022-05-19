@@ -2,7 +2,6 @@ import React from 'react';
 import '../style/skill.css';
 import '@fortawesome/free-regular-svg-icons'
 import FadeInSection from '../FadeInSections'
-import Chip from '@material-ui/core/Chip';
 import LinearProgress from '@mui/material/LinearProgress';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
